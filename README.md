@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @godlmk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning CPP, Datastruct, Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me liuMingKai2020@outlook.com
+- 👀 I’m interested in neovim, c++2a
+- 🌱 I’m currently learning CPP, Datastruct, Linux
+
 
 <!---
 godlmk/godlmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
